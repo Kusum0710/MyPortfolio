@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "[Your Name]",
+    "title": "Automation Executive",
+    "summary": "BCA graduate with hands-on experience in automation operations, API workflows, and process monitoring. Passionate about cybersecurity, with a detail-oriented approach to problem solving. Eager to contribute to technology and business process roles by improving efficiency, reliability, and user experience.",
+    "location": "[Location]",
+    "email": "[Email]",
+    "phone": "[Phone]",
+    "links": []
+  },
+  "skills": {
+    "languages": [
+      "HTML/CSS",
+      "JavaScript",
+      "C",
+      "Python"
+    ],
+    "frameworks": [
+      "ReactJS",
+      "Tailwind"
+    ],
+    "technicalTools": [
+      "Git",
+      "VSCode",
+      "Canva",
+      "Figma"
+    ],
+    "softSkills": [
+      "Communication",
+      "Collaboration",
+      "Leadership",
+      "Problem Solving"
+    ],
+    "otherTools": [
+      "MS Word",
+      "MS Excel",
+      "MS PowerPoint"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Automation Executive",
+      "company": "Crizac Ltd",
+      "startDate": "Sep 2025",
+      "endDate": "Present",
+      "location": "",
+      "bullets": [
+        "Monitored and resolved failed automation cases by analyzing logs and re-triggering workflows.",
+        "Tracked pending IDs caused by machine downtime and coordinated timely reprocessing.",
+        "Ensured data integrity and successful submission rates through continuous monitoring of automation status.",
+        "Collaborated with operations and tech teams to reduce manual workload and improve turnaround time."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Weather App",
+      "technologies": [
+        "ReactJS",
+        "APIs"
+      ],
+      "description": "Developed a responsive and user-friendly weather application using React, designed to provide real-time weather updates for cities worldwide. The app leverages the OpenWeather API and GeoDB API to deliver accurate and up-to-date weather information with a sleek and intuitive interface with places auto-complete.",
+      "bullets": [
+        "Real-time weather updates for cities worldwide",
+        "OpenWeather API integration",
+        "GeoDB API integration",
+        "Places auto-complete functionality",
+        "Sleek and intuitive interface",
+        "Responsive design"
+      ],
+      "links": {
+        "live": "",
+        "github": ""
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institution": "[Institution]",
+      "year": ""
+    },
+    {
+      "degree": "Diploma in Fine Arts",
+      "institution": "Bangiya Sangeet Kala Kendra",
+      "rank": "First Division"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Inter-College Coding Competition Winner",
+      "description": "Won inter-college coding competition in Manegedia organised by iLead, Kolkata.",
+      "type": "competition"
+    },
+    {
+      "title": "Cybersecurity Training - A Rank",
+      "description": "Got an A rank in Cybersecurity beginners training by ITOrizon.",
+      "type": "certification"
+    },
+    {
+      "title": "Quiz and Painting Competition Winner",
+      "description": "Won many inter school quiz and painting competitions.",
+      "type": "competition"
+    },
+    {
+      "title": "UI/UX Design Recognition",
+      "description": "Developed interactive UI/UX prototypes using Figma, receiving recognition for user-centered design.",
+      "type": "recognition"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cybersecurity Beginners Training",
+      "issuer": "ITOrizon",
+      "rank": "A Rank"
+    }
+  ]
+}
