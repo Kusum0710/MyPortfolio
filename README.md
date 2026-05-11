@@ -1,6 +1,6 @@
-# Premium Portfolio Website
+# My Portfolio Website
 
-A futuristic, high-converting portfolio website built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase expertise in automation, DevOps, and cybersecurity with smooth animations and premium aesthetics.
+This portfolio website is built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
 ## 🚀 Features
 
@@ -185,12 +185,6 @@ Modify `tailwind.config.js`:
 npm run build
 # Creates optimized production build in .next/
 ```
-
-Deploy to:
-- **Vercel** (recommended for Next.js)
-- **Netlify**
-- **AWS Amplify**
-- **Self-hosted Node.js server**
 
 ## 🤝 Content Requirements Met
 
