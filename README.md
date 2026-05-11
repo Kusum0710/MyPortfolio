@@ -91,55 +91,6 @@ yarn build
 yarn start
 ```
 
-## 🎨 Customization
-
-### Update Resume Content
-
-Edit `resume-data.json` to update:
-- Personal information (name, email, phone, location)
-- Skills, experience, projects
-- Education and achievements
-
-### Customize Colors
-
-Modify `tailwind.config.js`:
-- Update color definitions in the `colors` and `extend` sections
-- Primary cyan (`#0ff`) and secondary indigo (`#6366f1`) are used throughout
-
-### Adjust Animations
-
-- **Splash Screen Duration**: Edit `ExperienceSection.tsx` line ~23
-- **Particle Count**: Adjust in `AnimatedBackground.tsx`
-- **Section Stagger Delays**: Modify `containerVariants` and `itemVariants` in each section
-
-### Add/Remove Sections
-
-1. Create a new component in `components/`
-2. Import and add to `app/page.tsx`
-3. Add section ID to `ScrollProgress.tsx` sections array
-
-## 📱 Responsive Breakpoints
-
-- **Mobile**: 360px - 767px → Single column, stacked cards
-- **Tablet**: 768px - 1279px → 2-column grid
-- **Desktop**: 1280px+ → Full-featured layout
-
-### Mobile Features
-
-- **Bottom Progress Indicator**: Shows scroll position as bar
-- **Hamburger Navigation**: Toggle menu on small screens
-- **Touch-Friendly Targets**: 48px minimum tap areas
-- **Optimized Particle Count**: Reduced on mobile for performance
-
-## ♿ Accessibility
-
-- ✅ `prefers-reduced-motion` support (disables heavy animations)
-- ✅ Semantic HTML structure
-- ✅ ARIA labels and roles where applicable
-- ✅ High contrast text (WCAG AA compliant)
-- ✅ Keyboard navigation support
-- ✅ Smooth scroll behavior without janky animations
-
 ## ⚡ Performance
 
 - **Target**: 60 FPS smooth animations
@@ -185,18 +136,6 @@ Modify `tailwind.config.js`:
 npm run build
 # Creates optimized production build in .next/
 ```
-
-## 🤝 Content Requirements Met
-
-✅ **Every resume line included** - No data invented or omitted
-✅ **JSON structure created** - Fully parsed resume data
-✅ **First-view impact** - 1.6s splash screen with CTAs
-✅ **Experience presentation** - Expandable cards with metrics
-✅ **Achievements highlighted** - Top 3 prominent display + gallery
-✅ **Smooth mobile experience** - Optimized animations & responsive layout
-✅ **Complete codebase** - Ready to run with npm install && npm run dev
-✅ **Premium aesthetics** - Glassmorphism, gradients, glow effects
-✅ **DevOps/Cybersecurity focus** - Content and design tailored for these domains
 
 ## 🚀 Quick Start Summary
 
